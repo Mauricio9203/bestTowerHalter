@@ -6,7 +6,7 @@ This project uses Python to access an API providing data about farm towers and p
 
 Before running this code, make sure you meet the following requirements:
 
-- Python 3.11.5 installed on your system.
+- **Python 3.11.5**: If you haven't installed Python 3.11.5, you can download it from the [official Python website](https://www.python.org/downloads/).
 - Necessary Python libraries are installed. You can install them using `pip`:
 
 ```bash
